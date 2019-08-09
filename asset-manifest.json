@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/moviex-react/static/css/main.ce80307d.chunk.css",
-    "main.js": "/moviex-react/static/js/main.aa3ecdea.chunk.js",
-    "main.js.map": "/moviex-react/static/js/main.aa3ecdea.chunk.js.map",
+    "main.js": "/moviex-react/static/js/main.dcbf92e4.chunk.js",
+    "main.js.map": "/moviex-react/static/js/main.dcbf92e4.chunk.js.map",
     "runtime~main.js": "/moviex-react/static/js/runtime~main.24245c1f.js",
     "runtime~main.js.map": "/moviex-react/static/js/runtime~main.24245c1f.js.map",
     "static/js/2.c5b49d5b.chunk.js": "/moviex-react/static/js/2.c5b49d5b.chunk.js",
     "static/js/2.c5b49d5b.chunk.js.map": "/moviex-react/static/js/2.c5b49d5b.chunk.js.map",
     "index.html": "/moviex-react/index.html",
-    "precache-manifest.f252cbfd50b00cc8d5ee910595666525.js": "/moviex-react/precache-manifest.f252cbfd50b00cc8d5ee910595666525.js",
+    "precache-manifest.86f5528b85bf15c80cda256ff4c4d1c1.js": "/moviex-react/precache-manifest.86f5528b85bf15c80cda256ff4c4d1c1.js",
     "service-worker.js": "/moviex-react/service-worker.js",
     "static/css/main.ce80307d.chunk.css.map": "/moviex-react/static/css/main.ce80307d.chunk.css.map"
   }
