@@ -55,7 +55,7 @@ export default class App extends Component {
               Movie X
             </span>
             <span className="navbar-links">
-              <Link style={{ textDecoration: 'none', color: 'rgb(219, 219, 219)'}} to="/">
+              <Link style={{ textDecoration: 'none', color: 'rgb(219, 219, 219)'}} to="/moviex-react">
                 <span className="navbar-links-home">Home</span>
               </Link>
               <Link style={{ textDecoration: 'none', color: 'rgb(219, 219, 219)'}} to="/films">
@@ -68,7 +68,7 @@ export default class App extends Component {
           </div>
           <hr/>        
             <div className="sub-container">
-              <Route exact path="/" component={() => 
+              <Route exact path="/moviex-react" component={() => 
                                       <Home 
                                         video={this.state.video} 
                                         films={this.state.films} 
