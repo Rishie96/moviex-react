@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/moviex-react/static/css/main.2cce8147.chunk.css",
+    "main.js": "/moviex-react/static/js/main.3be24661.chunk.js",
+    "main.js.map": "/moviex-react/static/js/main.3be24661.chunk.js.map",
+    "runtime~main.js": "/moviex-react/static/js/runtime~main.24245c1f.js",
+    "runtime~main.js.map": "/moviex-react/static/js/runtime~main.24245c1f.js.map",
+    "static/js/2.4f057907.chunk.js": "/moviex-react/static/js/2.4f057907.chunk.js",
+    "static/js/2.4f057907.chunk.js.map": "/moviex-react/static/js/2.4f057907.chunk.js.map",
+    "index.html": "/moviex-react/index.html",
+    "precache-manifest.9521ab7a1aa4b40bd165993d0ebfa621.js": "/moviex-react/precache-manifest.9521ab7a1aa4b40bd165993d0ebfa621.js",
+    "service-worker.js": "/moviex-react/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/moviex-react/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/moviex-react/static/media/logo.5d5d9eef.svg"
+  }
+}
