@@ -1,13 +1,197 @@
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
-    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(36, 36, 36);
+  color: white;
+  font-family: monospace;
+  font-size: 1vw;
+  overflow: hidden;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
+hr {
+  border-color: rgb(165, 165, 165);
+  margin-left: 1.9vw;
+  width: 95%;
+}
+
+iframe {
+  border: none;
+  float: left;
+  height: 80vh;
+  width: 75%;
+}
+
+.iframe-loading {
+  border: 0.2px solid black;
+  float: left;
+  height: 80vh;
+  width: 75%;
+}
+
+.film-card {
+  display: inline-block;
+  height: 22vh;
+  width: 10%;
+  margin-left: 0.4%;
+}
+
+.films-list {
+  box-shadow: 2px 2px 8px 2px rgb(12, 12, 12);
+  height: 27vh;
+  margin-left: 2%;
+  margin-top: 2vh;
+  overflow: auto;
+  white-space: nowrap;
+  width: 96%
+}
+
+.films-list-main {
+  margin-top: 2vh;
+  margin-left: 2%;
+  width: 96%;
+}
+
+.films-list-search {
+  background-color: rgb(48, 48, 48);
+  border: 0.06vh solid rgb(104, 59, 0);
+  border-radius: 3px;
+  color: white;
+  font-size: 1vw;
+  height: 2.8vh;
+  margin-bottom: 1vh;
+  outline: none;
+  width: 99.8%;
+}
+
+.films-list-search:hover {
+  opacity: 0.7;
+}
+
+.film-card-main {
+  float: left;
+  height: 60vh;  
+  width: 24.97%;
+}
+
+.footer-note {
+  color: white;
+  font-size: 0.9vw;
+  margin-top: 0.7vh;
+  text-align: center;  
+}
+
+.main-container {  
+  width: 100%;
+}
+
+.navbar {
+  height: 3vh;
+  margin-top: 1vh;
+  margin-left: 2%;
+  width: 96%;
+}
+
+.navbar-brand {
+  color: rgb(235, 235, 235);
+  float: left;
+  font-weight: bold;
+}
+
+.navbar-links {
+  color: rgb(219, 219, 219);
+  cursor: pointer;
+  float: right;
+}
+
+.navbar-links-home {
+  margin-right: 1vw;
+}
+
+.navbar-links-films {
+  margin-right: 1vw;
+}
+
+.series-list {
+  border: 0.2px solid black;
+  height: 27vh;
+  margin-left: 2%;
+  margin-top: 2vh;
+  width: 96%;
+}
+
+.series-card {
+  border: 0.2px solid black;
+  display: inline-block;
+  height: 22vh;
+  width: 13%;
+  margin-left: 0.4%;
+}
+
+.series-list {
+  box-shadow: 2px 2px 8px 2px rgb(12, 12, 12);
+  height: 27vh;
+  margin-left: 2%;
+  margin-top: 2vh;
+  overflow: auto;
+  white-space: nowrap;
+  width: 96%
+}
+
+.sub-container {
+  height: 90.5vh;
+  overflow: auto;
+}
+
+.video-desc {
+  color: rgb(224, 224, 224);
+  float: left;
+  width: 24.9%;
+}
+
+.video-desc-cast {
+  height: 8vh;  
+  margin-top: 1vh;
+  text-align: center;
+}
+
+.video-desc-desc {
+  height: 22vh;
+  font-size: 0.9vw;
+  margin-left: 2%;
+  margin-top: 1vh;
+  overflow: auto;
+  text-align: center;
+  width: 96%;
+}
+
+.video-desc-release {
+  font-style: italic;
+  height: 4vh;
+  margin-top: 1vh;
+  text-align: center;
+}
+
+.video-desc-thumbnail {
+  font-style: italic;
+  height: 35.5vh;
+  margin-left: 12.5%;
+  margin-top: 1.5vh;
+  width: 75%;
+}
+
+.video-desc-title {
+  font-size: 1.2vw;
+  height: 5vh;  
+  margin-top: 1vh;
+  text-align: center;
+}
+
+.video-player {
+  box-shadow: 2px 2px 8px 2px rgb(12, 12, 12);
+  height: 80vh;
+  margin-left: 2%;
+  width: 96%;
+}
+
+::placeholder {
+  color: rgb(168, 168, 168);
+  font-style: italic;
 }
